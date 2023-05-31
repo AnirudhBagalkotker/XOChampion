@@ -24,7 +24,6 @@ First fill the Username and Password
 
 `
 Username: anirudh
-
 Password: aryan
 `
 
