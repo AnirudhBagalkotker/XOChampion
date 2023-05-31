@@ -1,8 +1,8 @@
-## XOChampion
+# XOChampion
 
 An Interactive 3×3 TIC-TAC-TOE(X-O) Game with results made using python
 
-# How to Start?
+## How to Start?
 
 Run the The_XO_Champion.py in your terminal.
 
@@ -18,7 +18,7 @@ python3 The_XO_Champion.py
 
 The Game appears in a new window.
 
-# How to Play?
+## How to Play?
 
 First fill the Username and Password
 
