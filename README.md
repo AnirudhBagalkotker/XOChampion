@@ -6,12 +6,9 @@ An Interactive 3×3 TIC-TAC-TOE(X-O) Game with results made using python
 
 Run the The_XO_Champion.py in your terminal.
 
-`
-python The_XO_Champion.py
-`
-or
 
-`python3 The_XO_Champion.py`
+`python The_XO_Champion.py
+` or `python3 The_XO_Champion.py`
 
 The Game appears in a new window.
 
