@@ -22,9 +22,10 @@ The Game appears in a new window.
 
 First fill the Username and Password
 
-`Username: anirudh
-
-Password: aryan`
+`
+Username: anirudh
+Password: aryan
+`
 
 Type the name of the player1 and player2.
 The first turn is of player1 and then player2.
