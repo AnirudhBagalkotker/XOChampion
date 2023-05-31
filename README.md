@@ -21,6 +21,7 @@ The Game appears in a new window.
 # How to Play?
 
 First fill the Username and Password
+
 `Username: anirudh
 Password: aryan`
 
