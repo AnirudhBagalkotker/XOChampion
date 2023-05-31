@@ -28,5 +28,7 @@ Password: aryan
 `
 
 Type the name of the player1 and player2.
+
 The first turn is of player1 and then player2.
+
 After the Match finishes, the result is displayed.
