@@ -22,7 +22,7 @@ The Game appears in a new window.
 
 First fill the Username and Password
 
-`Username: anirudh
+`Username: anirudh \n
 Password: aryan`
 
 Type the name of the player1 and player2.
