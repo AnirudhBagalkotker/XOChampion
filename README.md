@@ -8,7 +8,7 @@ Run the The_XO_Champion.py in your terminal.
 
 `python The_XO_Champion.py`
 or
-`pyhton3 The_XO_Champion.py`
+`python3 The_XO_Champion.py`
 
 The Game appears in a new window.
 
